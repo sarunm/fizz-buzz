@@ -1,14 +1,14 @@
 package FizzBuzz
 
 import (
-    "testing"
+	"testing"
 )
 
 func TestFizzBuzz(t *testing.T) {
-    want := "1"
-    got := fizzbuzz(1)
+	want := "1"
+	got := fizzbuzz(1)
 
-    if want != got {
-        t.Errorf("I want %s, But I got %s", want, got)
-    }
+	if want != got {
+		t.Errorf("I want %s, But I got %s", want, got)
+	}
 }
