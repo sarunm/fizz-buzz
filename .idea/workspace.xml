@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b9c321-88a0-4ebe-949f-a2cecd37b948" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fizz_buzz.go" beforeDir="false" afterPath="$PROJECT_DIR$/fizz_buzz.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fizz_buzz_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/fizz_buzz_test.go" afterDir="false" />
@@ -43,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultGoTemplateProperty": "Go File",
+    "Go Test.Test3ShouldReturnFizz in FizzBuzz.executor": "Run",
     "Go Test.TestFizzBuzz in FizzBuzz.executor": "Run",
     "Go Test.go test FizzBuzz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -56,10 +54,21 @@
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Test.go test FizzBuzz">
+  <component name="RunManager" selected="Go Test.Test3ShouldReturnFizz in FizzBuzz">
+    <configuration name="Test3ShouldReturnFizz in FizzBuzz" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="FizzBuzz" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="FizzBuzz" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTest3ShouldReturnFizz\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestFizzBuzz in FizzBuzz" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="FizzBuzz" />
       <working_directory value="$PROJECT_DIR$" />
@@ -83,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.Test3ShouldReturnFizz in FizzBuzz" />
         <item itemvalue="Go Test.go test FizzBuzz" />
         <item itemvalue="Go Test.TestFizzBuzz in FizzBuzz" />
       </list>
