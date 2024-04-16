@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b9c321-88a0-4ebe-949f-a2cecd37b948" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0607f785dfa3c3861b3239f6723eb276d8056461" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85b8eebfa9145aa90e3f5d83524b6546016ed045" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/6/0607f785dfa3c3861b3239f6723eb276d8056461" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/5/85b8eebfa9145aa90e3f5d83524b6546016ed045" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fizz_buzz.go" beforeDir="false" afterPath="$PROJECT_DIR$/fizz_buzz.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fizz_buzz_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/fizz_buzz_test.go" afterDir="false" />

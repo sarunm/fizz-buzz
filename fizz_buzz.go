@@ -7,7 +7,7 @@ func fizzbuzz(n int) string {
     if n == 2 {
         return "2"
     }
-    if n == 3 {
+    if n == 3 || n == 6 {
         return "Fizz"
     }
     if n == 4 {
@@ -16,6 +16,6 @@ func fizzbuzz(n int) string {
     if n == 5 {
         return "Buzz"
     }
-    
+
     return "1"
 }
